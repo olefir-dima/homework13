@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+}
+
+table {
+  margin: auto;
+}
+
+td {
+  border: #100f0f;
+  padding: 15px;
+  text-align: center;
+}
+
+td:first-child,
+tr:first-child {
+  background-color: #59d719;
+}
+
+tr {
+  background-color: #dce575;
+}
+
+.square {
+  background-color: #c87e7e;
+}
